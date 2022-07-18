@@ -58,7 +58,7 @@ $(document).ready(function() {
     window.location.href = "events.html"
 
     }
-
+//mmm
     const events = [
     {
         title: 'Vegan Day',
